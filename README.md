@@ -1,5 +1,5 @@
 # FF5Abridged
-Final Fantasy V:  Abridged
+### Final Fantasy V:  Awesome Battles Randomized Involving Danger, Gilgamesh, and Ex Death
 
 Welcome to my eleventh randomizer, this one from the Pixel Remaster of Final Fantasy V!  In this randomizer, I have created a REALLY Big Bridge!
 12 segments, in fact, with each segment containing lots of monsters.  At the end of each segment, you will fight progressively more difficult bosses.
@@ -16,7 +16,7 @@ to load the randomizer resources.  Then set your options, then click "Randomize"
 # Special Thanks
 - mcgrew (Dragon Warrior Randomizer author) for inspiring me to create randomizers
 - Albeoris - author of Memoria for the Pixel Remaster, which really helped me create this randomizer
-- riversmccown - For the title of this randomizer!
+- riversmccown and Nyobari - For the title of this randomizer!
 - Silvris - Creating the auto-battle speedup of Memoria
 
 # Enjoy and good luck!
