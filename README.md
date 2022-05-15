@@ -2,7 +2,7 @@
 Final Fantasy V:  Abridged
 
 Welcome to my eleventh randomizer, this one from the Pixel Remaster of Final Fantasy V!  In this randomizer, I have created a REALLY Big Bridge!
-12 segments, in fact, each segment filled with monsters.  At the end of each segment, you will fight progressively more difficult bosses.
+12 segments, in fact, with each segment containing lots of monsters.  At the end of each segment, you will fight progressively more difficult bosses.
 
 As with FF4: Fabul Gauntlet, this will test how well you can manage your resources as you go through each segment.
 
