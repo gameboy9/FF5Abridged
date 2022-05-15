@@ -7,7 +7,7 @@ Welcome to my eleventh randomizer, this one from the Pixel Remaster of Final Fan
 As with FF4: Fabul Gauntlet, this will test how well you can manage your resources as you go through each segment.
 
 # How to play
-Download both the GameAssets.zip and FF5Abridged.zip files.  Extract only the latter.  Run the EXE, locate your MAIN FF5 PR folder, then click the "extract" button
+Download both the FF5GameAssets.zip and FF5Abridged.zip files.  Extract only the latter.  Run the EXE, locate your MAIN FF5 PR folder, then click the "extract" button
 to load the randomizer resources.  Then set your options, then click "Randomize" and you should be good to go.
 
 # Other notable changes
