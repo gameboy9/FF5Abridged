@@ -50,6 +50,7 @@
 			this.txtXPBoost = new System.Windows.Forms.NumericUpDown();
 			this.txtGilBoost = new System.Windows.Forms.NumericUpDown();
 			this.txtAPBoost = new System.Windows.Forms.NumericUpDown();
+			this.DefaultFlags = new System.Windows.Forms.Button();
 			((System.ComponentModel.ISupportInitialize)(this.txtXPBoost)).BeginInit();
 			((System.ComponentModel.ISupportInitialize)(this.txtGilBoost)).BeginInit();
 			((System.ComponentModel.ISupportInitialize)(this.txtAPBoost)).BeginInit();
@@ -264,11 +265,22 @@
 			this.txtAPBoost.TabIndex = 71;
 			this.txtAPBoost.ValueChanged += new System.EventHandler(this.DetermineFlags);
 			// 
+			// DefaultFlags
+			// 
+			this.DefaultFlags.Location = new System.Drawing.Point(12, 344);
+			this.DefaultFlags.Name = "DefaultFlags";
+			this.DefaultFlags.Size = new System.Drawing.Size(120, 29);
+			this.DefaultFlags.TabIndex = 72;
+			this.DefaultFlags.Text = "Default Flags";
+			this.DefaultFlags.UseVisualStyleBackColor = true;
+			this.DefaultFlags.Click += new System.EventHandler(this.DefaultFlags_Click);
+			// 
 			// Form1
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
 			this.ClientSize = new System.Drawing.Size(801, 423);
+			this.Controls.Add(this.DefaultFlags);
 			this.Controls.Add(this.txtAPBoost);
 			this.Controls.Add(this.label6);
 			this.Controls.Add(this.txtGilBoost);
@@ -327,5 +339,6 @@
 		private NumericUpDown txtXPBoost;
 		private NumericUpDown txtGilBoost;
 		private NumericUpDown txtAPBoost;
+		private Button DefaultFlags;
 	}
 }

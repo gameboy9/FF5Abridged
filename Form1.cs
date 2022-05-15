@@ -293,5 +293,11 @@ namespace FF5Abridged
 				//writer.WriteLine(VisualFlags.Text);
 			}
 		}
+
+		private void DefaultFlags_Click(object sender, EventArgs e)
+		{
+			RandoFlags.Text = "A3A";
+			determineChecks(null, null);
+		}
 	}
 }
