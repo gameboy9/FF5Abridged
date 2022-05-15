@@ -126,7 +126,7 @@ namespace FF5Abridged.Inventory
 							record.msgString = "Special Thanks to...";
 							break;
 						case 5:
-							record.msgString = "Albeoris, Silvis, riversmccown, and mcgrew";
+							record.msgString = "Albeoris, Silvis, riversmccown, Nyobari, and mcgrew";
 							break;
 						case 6:
 							record.msgString = "Thanks for playing!";
